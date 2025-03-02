@@ -1,0 +1,98 @@
+name: leez
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts:
+  flutter_settings_ui:
+  device_preview:
+  flutter_screenutil: 
+  flutter_animate:
+  curved_navigation_bar:
+  cupertino_icons:
+  flutter_svg:
+  carousel_slider: 
+  smooth_page_indicator:
+  http:
+  shared_preferences: ^2.0.15
+  google_sign_in:
+  flutter_local_notifications:
+  intl:
+  lottie:
+  animations:
+  provider:
+  url_launcher:
+  share_plus:
+  image_picker: 
+  emoji_picker_flutter: 
+  iconsax: 
+  firebase_core: 
+  firebase_storage:
+  cloud_firestore:
+  shimmer:
+  video_player:
+  file_picker: 
+  dio: ^5.0.0
+  get_it: ^7.2.0
+  cached_network_image: ^3.2.3
+  flutter_secure_storage: ^8.0.0
+  flutter_rating_bar: ^4.0.1
+  flutter_blur:
+  simple_animations: # if not already included
+  font_awesome_flutter: ^10.8.0
+
+
+
+dev_dependencies:
+  flutter_launcher_icons:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/quickleez.png
+    - assets/logo/quickleez_1.png
+    - assets/logo/ql.png
+    - assets/88.webm
+    - assets/google.png
+    - assets/apple.png
+    - assets/car1.png
+    - assets/car2.png
+    - assets/car3.png
+    - assets/car4.jpg
+    - assets/car5.png
+    - assets/car6.png
+    - assets/car12.png
+    - assets/nat2.png
+    - assets/nat5.png
+    - assets/nat6.png
+    - assets/nat1.png 
+    - assets/nat3.png
+    - assets/nat4.png
+    - assets/bike.jpg
+    - assets/car_.jpg
+    - assets/boy.png
+    - assets/laptop.png
+    - assets/laptop1.png
+    - assets/cam1.png
+    - assets/cam3.png
+    - assets/cam4.png
+    - assets/cam78.png
+    - assets/cars/audi.avif
+    - assets/cars/bmw3.avif 
+    - assets/cars/merc.avif
+    - assets/cars/polo.avif
+    - assets/cars/city.jpg
+    - assets/cars/camry.jpg   
