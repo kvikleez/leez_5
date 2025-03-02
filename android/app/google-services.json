@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170736783315",
+    "project_id": "leez-ptiz14",
+    "storage_bucket": "leez-ptiz14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170736783315:android:52c075bff566bae2d52926",
+        "android_client_info": {
+          "package_name": "com.example.leez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170736783315-camq9g8jb7etjpc8lugmbvv8qrg9ms4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-RmXwOZeSB7ipIQG02SJ1EftpaKquhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170736783315-camq9g8jb7etjpc8lugmbvv8qrg9ms4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
